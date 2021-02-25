@@ -1,0 +1,7 @@
+StyleGAN_PyTorch
+eps/
+frames/
+.ipynb_checkpoints
+train_data/
+zips/
+
